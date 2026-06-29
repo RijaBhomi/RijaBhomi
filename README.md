@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+<img align="right" src="https://github.com/RijaBhomi/RijaBhomi/blob/main/download%20(2).gif" width="360"/>
 
 ### WHO AM I?
 
@@ -118,11 +118,7 @@ Building in public. PDF Chatbot with sliding window RAG + query expansion (Day 6
 
 <br/>
 
-**Capstone:** Writing Section 5 (Experimental Results) of the UAV AI research paper
-
 **60 Days:** Grinding LLM + agentic AI systems daily with Leapfrog
-
-**Side quest:** Devanagari NLP data + NAAMII AI research exposure
 
 **Mood:** caffeinated and debugging something in GDScript 💀
 
@@ -139,7 +135,7 @@ Building in public. PDF Chatbot with sliding window RAG + query expansion (Day 6
     <img src="https://img.shields.io/badge/GitHub-RijaBhomi-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/rija-bhomi">
+  <a href="https://www.linkedin.com/in/rija-bhomi-5b936131b/i">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
